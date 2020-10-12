@@ -2,7 +2,7 @@
 #ifndef SOURCE_SMART_POINTER_SMART_POINTER_HPP_
 #define SOURCE_SMART_POINTER_SMART_POINTER_HPP_
 #include <cstddef>
-
+//
 /*
  * Smart Pointer que implementa un tipo de estrategia por conteo de referencias.
  * Permite que varios SmartPointers puedan acceder al mismo recurso compartido.
